@@ -2,7 +2,7 @@
 <p align="center">
   <strong>ML практический практикум</strong>
 </p>
-
+/sourceforge/languages/:project
 <h2>1. Постановка задачи</h2>
 
 <p>
