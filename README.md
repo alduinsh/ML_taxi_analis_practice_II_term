@@ -1,4 +1,3 @@
-# ML_taxi_analis
 <h1 align="center">ML_taxi_analis</h1>
 <p align="center">
   <strong>Предсказание продолжительности поездки такси в Нью-Йорке</strong>
